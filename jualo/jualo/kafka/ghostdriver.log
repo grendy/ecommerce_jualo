@@ -1,0 +1,1071 @@
+[INFO  - 2016-11-10T11:38:54.726Z] GhostDriver - Main - running on port 41623
+[INFO  - 2016-11-10T11:38:55.225Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-11-10T11:38:55.225Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.customHeaders:  - {}
+[INFO  - 2016-11-10T11:38:55.225Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-11-10T11:38:55.225Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 42cf4340-a73a-11e6-9f22-f7886b09dcff
+[ERROR - 2016-11-10T11:39:14.553Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:14.553Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:19.955Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:19.956Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:20.299Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:20.300Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:25.624Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:25.624Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:30.692Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:30.692Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:30.976Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:30.976Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:34.155Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:34.156Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:39.235Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:39.235Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:39.421Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:39.421Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:41.470Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:41.470Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=2751417941&w=728&loeid=86724439&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-aceh-tamiang%2Fmode-gaya-perhiasan%2Fgiok-aceh-akik-bio-solar-idocrase-biosolar%3Fcategory_id%3D57%26s%3Dtfcmvp_ivc4fawr&wgl=0&dt=1478777981089&bpp=3&bdt=55&fdt=4&idt=6&shv=r20161031&cbv=r20161108&saldr=aa&correlator=1582308786177&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478777981&ga_hid=788891031&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=4&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=3340993110&eid=33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=21:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:46.611Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:46.611Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:46.793Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:46.793Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:48.902Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:48.902Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:54.048Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:54.048Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:54.224Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:54.225Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:56.844Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:39:56.845Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=3279755404&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-aceh-utara%2Fjasa-pekerjaan-lowongan%2Fmenerima-abk-kapal-tug-boat-join-2016-2017%3Fcategory_id%3D79%26s%3Dtf4ppr_ivc6sxlf&wgl=0&dt=1478777996186&bpp=4&bdt=40&fdt=5&idt=7&shv=r20161031&cbv=r20161108&saldr=aa&correlator=3177340755969&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478777996&ga_hid=1889411780&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=6&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=2568824223&eid=33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=28:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:01.945Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:01.945Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:02.105Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:02.105Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:03.912Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:03.912Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=2751417941&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fbuku-ilmu-pengetahuan%2Fdasar-dasar-bahasa-indonesia-baku%3Fcategory_id%3D61%26s%3Dtez399_ivc0t7fm&wgl=0&dt=1478778003316&bpp=9&bdt=16&fdt=13&idt=28&shv=r20161031&cbv=r20161108&saldr=aa&correlator=6752637370369&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778003&ga_hid=1019343515&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=7&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=1410813834&eid=10593695%2C33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=59:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:09.143Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:09.143Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:09.366Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:09.367Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:12.383Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:12.383Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:17.512Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:17.512Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:17.741Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:17.741Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:20.165Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:20.165Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=2751417941&w=728&loeid=453848102&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fbuku-ilmu-pengetahuan%2Fdasar-dasar-bahasa-indonesia-baku%3Fcategory_id%3D61%26s%3Dtez399_ivc0winl&wgl=0&dt=1478778019734&bpp=5&bdt=21&fdt=5&idt=7&shv=r20161031&cbv=r20161108&saldr=aa&correlator=1859742099457&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778020&ga_hid=1642765535&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=9&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=1410813834&eid=33509839%2C20040040&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=22:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:25.274Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:25.275Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:25.519Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:25.519Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:28.752Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:28.753Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:33.833Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:33.833Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:34.061Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:34.062Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:36.658Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:36.658Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=3279755404&w=728&loeid=26835105&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fbuku%2Ffilsafat-pendidikan-6949898%3Fs%3Dtez3db_ivc0t7f1&wgl=0&dt=1478778035688&bpp=7&bdt=47&fdt=9&idt=24&shv=r20161031&cbv=r20161108&saldr=aa&correlator=6452148850689&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778036&ga_hid=1197089214&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=3340993110&eid=10593696%2C33509839%2C20040040&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=62:79)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:41.810Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:41.810Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:41.975Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:41.976Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:49.674Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:49.674Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=3279755404&w=728&loeid=26835105&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fbuku%2Ffilsafat-pendidikan-6949898%3Fs%3Dtez3db_ivc0v1zr&wgl=0&dt=1478778043534&bpp=4&bdt=18&fdt=6&idt=8&shv=r20161031&cbv=r20161108&saldr=aa&correlator=5293551806465&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778044&ga_hid=1241099960&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=12&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=1410813834&eid=4089036%2C33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=23:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:54.817Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:54.817Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:55.010Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:40:55.011Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:23.938Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:23.938Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=2751417941&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fbuku%2Ffilsafat-pendidikan-6949898%3Fs%3Dtez3db_ivc0win2&wgl=0&dt=1478778083377&bpp=6&bdt=14&fdt=9&idt=23&shv=r20161031&cbv=r20161108&saldr=aa&correlator=1183663044609&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778083&ga_hid=1371637726&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=13&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=3340993110&eid=33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=50:79)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:29.015Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:29.015Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:29.236Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:29.236Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:32.114Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:32.115Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:37.229Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:37.229Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:37.419Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:37.419Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:39.173Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:39.174Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=2751417941&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fkesehatan-kecantikan-lainnya%2Fmerawat-kulit-dan-tubuh-dengan-gluberry-drik%3Fcategory_id%3D75%26s%3Dtextxb_ivc8t8ju&wgl=0&dt=1478778098793&bpp=4&bdt=141&fdt=5&idt=6&shv=r20161031&cbv=r20161108&saldr=aa&correlator=8775066298369&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778099&ga_hid=438877461&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=15&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=2568824223&eid=10593696%2C33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=22:79)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:44.273Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:44.273Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:44.474Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:44.474Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:47.188Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:47.188Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=2751417941&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bener-meriah%2Fkesehatan-kecantikan-perawatan%2Fcollavit-body-lotion%3Fcategory_id%3D75%26s%3Dtf0fs9_ivc8th9p&wgl=0&dt=1478778106746&bpp=5&bdt=37&fdt=6&idt=9&shv=r20161031&cbv=r20161108&saldr=aa&correlator=806322978817&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778107&ga_hid=892135767&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=16&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=2568824223&eid=33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=29:79)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:52.262Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:52.262Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:52.452Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:52.452Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:54.192Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:54.192Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=3279755402&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bireuen%2Fhandphone-lg%2Fkelas-segera-dimulai-5-seats-lagi%3Fcategory_id%3D56%26s%3Dtfcpoz_ivc5ifec&wgl=0&dt=1478778113784&bpp=6&bdt=15&fdt=7&idt=9&shv=r20161031&cbv=r20161108&saldr=aa&correlator=7587372550145&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778114&ga_hid=201402010&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=17&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=2568824223&eid=33509839%2C20040040&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=30:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:59.314Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:59.314Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:59.525Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:41:59.525Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:42:01.400Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:42:01.401Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  trigger (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:31)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  appendChild (:0)
+  T (https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1720575921318265&format=728x90&output=html&h=90&slotname=8518578237&adk=2078338104&adf=3279755405&w=728&ea=0&flash=0&url=https%3A%2F%2Fwww.jualo.com%2Faceh%2Fkab-bireuen%2Fhandphone%2Fbismillah-barokah%3Fs%3Dtfcpox_ivc5ifew&wgl=0&dt=1478778120980&bpp=4&bdt=4&fdt=6&idt=19&shv=r20161031&cbv=r20161108&saldr=aa&correlator=4477642141697&frm=24&ga_vid=1406657284.1478777946&ga_sid=1478778121&ga_hid=1157785318&ga_fc=0&pv=2&iag=12&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=420&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=arial&dfs=13&adx=1&ady=0&biw=-12245933&bih=-12245933&isw=730&ish=137&ifk=2568824223&eid=33509839&oid=3&rx=0&eae=2&pc=0&brdim=0%2C0%2C0%2C0%2C1024%2C0%2C0%2C0%2C730%2C137&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=47:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:42:06.551Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:42:06.551Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:42:06.701Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - msg: TypeError: undefined is not an object (evaluating 'address.indexOf')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-10T11:42:06.702Z] Session [42cf4340-a73a-11e6-9f22-f7886b09dcff] - page.onError - stack:
+  resizeIframe (https://www.jualo.com/assets/first_load-feff71ec9cd179fb9acb6d9174d7a4beba0b2b8792b3a8d71284ec55a95a32b7.js:1)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  each (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:19)
+  (anonymous function) (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:154)
+  dispatch (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:30)
+  handle (https://www.jualo.com/assets/application-02527c640cd092b54a993be077e31ed655a5f858eeb06e7b91531ff61ef255fe.js:29)
+  renderBase64 (:0)
+  _getScreenshotCommand (phantomjs://code/session_request_handler.js:468)
+  _handle (phantomjs://code/session_request_handler.js:95)
+  _reroute (phantomjs://code/request_handler.js:61)
+  _handle (phantomjs://code/router_request_handler.js:78)
+
+  phantomjs://platform/console++.js:263 in error
