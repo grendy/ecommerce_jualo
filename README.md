@@ -65,6 +65,5 @@ driver.find_element_by_id('s_imgBtnSearch').click()
 ##Running engine
 To running engine use crontab for automatic scheduling
 ```bash
-2 * * * * cd /root/crawler/ecommerce/jualo && python2.7 jualo.py > /dev/null 2>&1
-1 * * * * kill -9 $(ps -ef|grep "jualo.py"|grep -v "grep"|awk '{print $2}')
+python2.7 jualo.py
 ```
